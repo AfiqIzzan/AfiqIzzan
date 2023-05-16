@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact)](https://github.com/AfiqIzzan/github-readme-stats)
 
 <a href="https://github.com/AfiqIzzan/AfiqIzzan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiqIzzan&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiqIzzan&repo=AfiqIzzan" />
 </a>
 <a href="https://github.com/AfiqIzzan/AfiqIzzan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiqIzzan&repo=convoychat" />

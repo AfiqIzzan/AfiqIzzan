@@ -4,6 +4,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact)](https://github.com/AfiqIzzan/github-readme-stats)
 
+<a href="https://github.com/AfiqIzzan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiqIzzan&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiqIzzan&repo=convoychat" />
+</a>
+
 <!--
 **AfiqIzzan/AfiqIzzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

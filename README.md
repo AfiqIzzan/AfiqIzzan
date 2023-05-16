@@ -1,4 +1,4 @@
-# Hello there, I'm Afiq Izzan 👋
+### Hello there, I'm Afiq Izzan 👋
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight)

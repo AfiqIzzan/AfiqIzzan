@@ -1,11 +1,11 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact)](https://github.com/AfiqIzzan/github-readme-stats)
 
 <a href="https://github.com/AfiqIzzan/AfiqIzzan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiqIzzan&repo=AfiqIzzan" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight)
 </a>
 <a href="https://github.com/AfiqIzzan/AfiqIzzan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiqIzzan&repo=convoychat" />

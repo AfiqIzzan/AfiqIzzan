@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact)](https://github.com/AfiqIzzan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact&bg_color=00000000)](https://github.com/AfiqIzzan/github-readme-stats)
 
 <!--
 **AfiqIzzan/AfiqIzzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

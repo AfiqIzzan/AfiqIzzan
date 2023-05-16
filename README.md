@@ -1,9 +1,9 @@
 ### Hello there, I'm Afiq Izzan 👋
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight)
+![AfiqIzzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight&hide_border=true&custom_title=AfiqIzzan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact&bg_color=00000000)](https://github.com/AfiqIzzan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/AfiqIzzan/github-readme-stats)
 
 <!--
 **AfiqIzzan/AfiqIzzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

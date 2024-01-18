@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact&bg_color=00000000&hide_border=true&text_color=e5e5e5)](https://github.com/AfiqIzzan/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AfiqIzzan&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AfiqIzzan&theme=github-dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
 <!--
 **AfiqIzzan/AfiqIzzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

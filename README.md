@@ -1,9 +1,13 @@
 ### Hello there, I'm Afiq Izzan 👋
 ---
+<table style:"border=none;">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight&hide_border=true"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact&bg_color=00000000&hide_border=true&text_color=e5e5e5"></td>
+  </tr>
+</table>
 
-![AfiqIzzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfiqIzzan&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfiqIzzan&layout=compact&bg_color=00000000&hide_border=true&text_color=e5e5e5)](https://github.com/AfiqIzzan/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AfiqIzzan&theme=github-dark-blue&hide_border=true&card_width=490)](https://git.io/streak-stats)
 <!--

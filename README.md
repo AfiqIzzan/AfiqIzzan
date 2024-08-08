@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p style="font-family: 'Courier New', Courier, monospace;"> ⚒️ A junior web developer working on Ruby </p>
+⚒️ Crafting innovative web solutions as a passionate junior Ruby developer.
 
 
 

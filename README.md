@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🇲🇾 Malaysian boy.
+- 🇲🇾 Malaysian programmer.
 - ⚒️ Crafting innovative web solutions as a passionate junior Ruby developer.
 
 

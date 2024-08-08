@@ -6,7 +6,8 @@
   </a>
 </p>
 
-⚒️ Crafting innovative web solutions as a passionate junior Ruby developer.
+- 🇲🇾 Malaysian boy.
+- ⚒️ Crafting innovative web solutions as a passionate junior Ruby developer.
 
 
 

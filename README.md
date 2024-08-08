@@ -1,4 +1,15 @@
 ### Hello there, I'm Afiq Izzan 👋
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,ruby,js,redis,php,postgres" />
+  </a>
+</p>
+
+<p style="font-family: 'Courier New', Courier, monospace;"> ⚒️ A junior web developer working on Ruby </p>
+
+
+
 ---
 <table>
   <tr>
@@ -15,6 +26,7 @@
 
 Here are some ideas to get you started:
 
+My curre
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
